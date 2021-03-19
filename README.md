@@ -12,7 +12,6 @@
 
 ## THÀNH VIÊN NHÓM
 <a name="thanhvien"></a>
-* Số thứ tự nhóm: 01
 | STT    | MSSV          | Vai Trò      | Họ và Tên           | Email                   |
 | ------ |---------------|--------------|---------------------|-------------------------|
 | 1      | 19522526      | Nhóm trưởng  | Phạm Quang Vinh     |19522526@gm.uit.edu.vn   |
