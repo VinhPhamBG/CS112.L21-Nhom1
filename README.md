@@ -20,4 +20,4 @@
 | 4      | 19522227      | Thành viên   | Huỳnh Đỗ Tấn Thành  |19522227@gm.uit.edu.vn   |
 
 ## CHỦ ĐỀ SEMINAR
-* Lyện tập thiết kế thuật toán(2)
+* Luyện tập thiết kế thuật toán(2)
