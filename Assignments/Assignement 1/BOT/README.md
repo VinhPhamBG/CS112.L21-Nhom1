@@ -33,11 +33,15 @@ Cho mảng số nguyên n phần tử, tìm mảng con có tổng các phần t�
 **Pasudo Code(Mã giả):**
 
 Given array arr[n]
+
 Set sum[0] and max_sum = arr[0]
+
 Set pos_start, pos_end = 1
-Set map[0] = 0 
+
+Set map[0] = 0
+
 FOR LOOP:
-	Set counter i to 1
+\Set counter i to 1
 	Break when i reaches length of arr
 	Incerment i by 1
 	IF a[i] > a[i] + sum[i - 1] THEN:   ( Check if the current element is bigger than the summany of the current element
