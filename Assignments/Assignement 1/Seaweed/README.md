@@ -20,5 +20,5 @@ Hãy xác định sau k ngày trong nước biển có bao nhiêu cá thể.
 |-------|--------|
 | 3 2   | 15     |
 
-## Bài Làm:
+## Phân tích bài toán:
 * **Abstration:** 
