@@ -21,3 +21,4 @@
 
 ## CHỦ ĐỀ SEMINAR
 * Luyện tập thiết kế thuật toán(2)
+how
