@@ -1,4 +1,4 @@
-BIỂN# TẢO BIỂN
+# TẢO BIỂN
 
 ## Yêu cầu bài toán:
 Tảo biển sinh sản rất nhanh khi có môi trường thuận lợi với chúng và có những loài còn tiết ra môi trường những chất độc hại.
@@ -15,6 +15,7 @@ Hãy xác định sau k ngày trong nước biển có bao nhiêu cá thể.
 * **Kết quả:** Đưa ra thiết bị xuất chuẩn một số nguyên – số lượng cá thể  tảo theo mô đun 109+7.
 
 * **Ví dụ:**
+
 | Input | Output |
 |-------|--------|
 | 3 2   | 15     |
