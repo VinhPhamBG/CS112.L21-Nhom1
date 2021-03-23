@@ -32,16 +32,13 @@ Cho mảng số nguyên n phần tử, tìm mảng con có tổng các phần t�
 * **3. Algorithm designed:**
 **Pasudo Code(Mã giả):**
 
+```[python3]
 Given array arr[n]
-
 Set sum[0] and max_sum = arr[0]
-
 Set pos_start, pos_end = 1
-
 Set map[0] = 0
-
 FOR LOOP:
-\t Set counter i to 1
+	Set counter i to 1
 	Break when i reaches length of arr
 	Incerment i by 1
 	IF a[i] > a[i] + sum[i - 1] THEN:   ( Check if the current element is bigger than the summany of the current element
@@ -53,6 +50,7 @@ FOR LOOP:
 		Set max_sum = sum[i] and pos_start = map[i] + 1 and pos_end = i + 1
 		
 RETURN pos_start, pos_end, max_sum
+```
 
 * **4. Complexity:**
 O(n)
