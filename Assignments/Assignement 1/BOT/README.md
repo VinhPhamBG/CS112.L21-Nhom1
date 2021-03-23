@@ -42,15 +42,15 @@ Set map[0] = 0
 
 FOR LOOP:
 	Set counter i to 1
-		Break when i reaches length of arr
-		Incerment i by 1
-		IF a[i] > a[i] + sum[i-1] THEN:   ( Check if the current element is bigger than the summany of the current element
-						   and the previous sum or not?)
-			Set sum[i] = a[i] and map[i] = i
-		ELSE:
-			Set sum[i] = a[i] + sum[i-1] and map[i] = map[i-1]
-		IF sum[i] > max_sum THEN: ( Check if the current sum bigger than the value of max_sum or not? )
-			Set max_sum = sum[i] and _start = map[i] + 1 and _end = i + 1
+	Break when i reaches length of arr
+	Incerment i by 1
+	IF a[i] > a[i] + sum[i-1] THEN:   ( Check if the current element is bigger than the summany of the current element
+					   and the previous sum or not?)
+		Set sum[i] = a[i] and map[i] = i
+	ELSE:
+		Set sum[i] = a[i] + sum[i-1] and map[i] = map[i-1]
+	IF sum[i] > max_sum THEN: ( Check if the current sum bigger than the value of max_sum or not? )
+		Set max_sum = sum[i] and _start = map[i] + 1 and _end = i + 1
 		
 RETURN _start, _end, max_sum
 
