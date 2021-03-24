@@ -20,12 +20,12 @@ Hãy xác định sau k ngày trong nước biển có bao nhiêu cá thể.
 |-------|--------|
 | 3 2   | 15     |
 
-## Phân tích bài toán ngắn gọn:
+## Phân tích bài toán:
 * **1. Abstration:** 
 Tìm số fibonaci của 2k, mà bắt đầu dãy fibonaci là 2 số n (Fi[0] = n, Fi[1] = n) (n, k nhập từ bàn phím)
 
 * **2. Pattern Recognition:** 
-Quy hoạch động, dãy số 
+Quy hoạch động, dãy số Fibonaci.
 
 * **3. Algorithm designed:** 
 
