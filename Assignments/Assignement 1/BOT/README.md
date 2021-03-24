@@ -41,7 +41,7 @@ Set map[0] = 0
 FOR LOOP:
 	Set counter i to 1
 	Break when i reaches length of arr
-	Incerment i by 1
+	Increment i by 1
 	IF a[i] > a[i] + sum[i - 1] THEN:   ( Check if the current element is bigger than the summany of the current element
 					   and the previous sum or not?)
 		Set sum[i] = a[i] and map[i] = i
