@@ -25,9 +25,10 @@ Hãy xác định sau k ngày trong nước biển có bao nhiêu cá thể.
 Tìm số fibonaci của 2k, mà bắt đầu dãy fibonaci là 2 số n (Fi[0] = n, Fi[1] = n) (n, k nhập từ bàn phím)
 
 * **2. Pattern Recognition:** 
-Quy hoạch động
+Quy hoạch động, dãy số 
 
 * **3. Algorithm designed:** 
+
 ```[python3]
     Input: n, k
     Set M = 1000000007
