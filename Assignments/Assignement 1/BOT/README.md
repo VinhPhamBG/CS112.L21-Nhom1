@@ -30,6 +30,7 @@ Cho mảng số nguyên n phần tử, tìm mảng con có tổng các phần t�
 * **2. Pattern Recognition:** 
 Áp dụng dạng thuật toán Quy hoạch động (Dynamic programming)
 * **3. Algorithm designed:**
+
 **Pasudo Code(Mã giả):**
 
 ```[python3]
