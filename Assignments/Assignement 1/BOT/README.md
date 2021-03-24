@@ -23,7 +23,7 @@ Hãy chỉ ra khoảng cần chọn và lãi thu được. Nếu có nhiều cá
 | 16                                     | 5 15 12 |
 | 2 -4 5 -8 4 -1 -1 1 1 1 -2 2 4 -6 9 -4 |         |
  
-## Phân tích bài toán ngắn gọn:
+## Phân tích bài toán:
 
 * **1. Abstraction:** 
 Cho mảng số nguyên n phần tử, tìm mảng con có tổng các phần tử lớn nhất.
