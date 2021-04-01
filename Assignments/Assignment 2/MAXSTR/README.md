@@ -22,7 +22,7 @@ Hãy xác định khóa mở cửa.
 Cho mảng số nguyên n phần tử, tìm mảng con lớn nhất được sắp xếp giảm dần sao cho tổng các phần tử chia hết cho 3
 * **2. Pattern Recognition:** 
 
-	Áp dụng thuật toán Vét cạn (Brute Force). 
+	Áp dụng thuật toán Vét cạn (Brute Force).
 	Đặc điểm nhận dạng: cần duyệt qua tất cả các trường hợp độc lập để tìm được kết quả tốt nhất
 	
 * **3. Algorithm designed:**
