@@ -39,7 +39,7 @@ Cho mảng n phần tử, tìm số k lớn nhất sao cho k phần tử trong m
 
 ```[python3]
 Given array paper[n]
-Sort paper
+Sort paper[] descending
 Set H_index = 0
 WHILE LOOP:
         Break when H_index = n
