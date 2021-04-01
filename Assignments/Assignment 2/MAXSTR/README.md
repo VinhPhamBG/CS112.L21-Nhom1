@@ -23,10 +23,27 @@ Cho mảng số nguyên n phần tử, tìm mảng con lớn nhất được s�
 * **2. Pattern Recognition:** 
 Áp dụng thuật toán Vét cạn (Brute Force)
 * **3. Algorithm designed:**
+
 **Pseudocode:**
 
 ```[python 3]
-
+Given _A
+IF _A divided by 3 then the remainder is 1:
+	FOR LOOP:
+		IF in _A has the number _rE which devided by 3 then the remainder is 1 and _rE is the smallest :
+			Delete _rE in _A
+			Break FOR LOOP
+		ELSE IF in _A has two numbers _rE1 and _rE2 which devided by 3 then the remainder is 2 and _rE1, _rE2 is the smallest:
+			Delete _rE1, _rE2 in _A
+ELSE IF _A divided by 3 then the remainder is 2:
+	FOR LOOP:
+		IF in _A has the number _rE which devided by 3 then the remainder is 2 and _rE is the smallest :
+			Delete _rE in _A
+			Break FOR LOOP
+		ELSE IF in _A has two numbers _rE1 and _rE2 which devided by 3 then the remainder is 1 and _rE1, _rE2 is the smallest:
+			Delete _rE1, _rE2 in _A
+SORT _A
+RETURN _A
 ```
 * **4. Complexity:**
 O(n)
