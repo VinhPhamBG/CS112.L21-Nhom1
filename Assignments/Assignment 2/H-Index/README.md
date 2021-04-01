@@ -29,8 +29,8 @@ Một người có n bài báo, bài báo thứ i có điểm trích dẫn là c
 * **1. Abstraction:** 
 Cho mảng n phần tử, tìm số k lớn nhất sao cho k phần tử trong mảng lớn hơn hoặc bằng k.
 * **2. Pattern Recognition:**
-** Kĩ thuật được áp dụng : Vét cạn.
-** Đặc điểm nhận dạng : Cần duyệt tất cả phần tử trong mảng.
+*Kĩ thuật được áp dụng : Vét cạn.
+*Đặc điểm nhận dạng : Cần duyệt tất cả phần tử trong mảng.
 * **3. Algorithm designed:**
 
 **Pseudo Code(Mã giả):**
