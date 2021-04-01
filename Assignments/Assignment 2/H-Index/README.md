@@ -27,4 +27,24 @@ Một người có n bài báo, bài báo thứ i có điểm trích dẫn là c
 ## Phân tích bài toán:
 
 * **1. Abstraction:** 
+Cho mảng n phần tử, tìm số k lớn nhất sao cho k phần tử trong mảng lớn hơn hoặc bằng k.
+* **2. Pattern Recognition:**
+ * Kĩ thuật được áp dụng : Vét cạn.
+ * Đặc điểm nhận dạng : Cần duyệt tất cả phần tử trong mảng.
+* **3. Pseudo Code(Mã giả):**
 
+```[python3]
+Given array paper[n]
+Sort paper
+Set H_index = 0
+WHILE LOOP:
+        Break when H_index = n
+        IF paper[H_index] <= H_index THEN : Break (Check if the H_index-th element is bigger than H_index or not)
+        Increament H_index by 1
+        
+Return H_index
+```
+* **4. Complexity:**
+O(n)
+
+        
