@@ -15,3 +15,9 @@ Hãy xác định sau bao nhiêu ngày thì có thể bắt đầu việc trồn
 | Input| Output |
 |---------|------|
 | 2 4 3 3 25 | 7 |
+## **Phân tích bài toán:**
+**1. Abstraction:** Tìm chỉ số nhỏ nhất i của mảng A sao cho tổng giá trị từ 0 đến i của mảng A lớn hơn giá trị n cho trước
+
+**2. Pattern Recognition:** Áp dụng thuật toán branch and bound. Đặc điểm nhận dạng: hi vọng tìm được giải pháp tốt nhất khi chọn 1 giá trị i nào đó
+
+**3. Algorithm designed:
