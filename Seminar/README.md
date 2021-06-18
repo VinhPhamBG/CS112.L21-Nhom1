@@ -17,8 +17,8 @@
 | Hạng | Tên nhóm |
 |------|----------|
 | TOp 1| Nhóm 16  |
-| TOp 2| Nhóm |
-| TOp 3| Nhóm |
+| TOp 2| Nhóm 4   |
+| TOp 3| Nhóm 3   |
 
 ### **2. Phát biểu đóng góp:**
 
