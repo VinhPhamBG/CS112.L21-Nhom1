@@ -49,5 +49,5 @@
 | Tên bài tập  | Các nhóm tham gia | Các nhóm passed |
 |--------------|-------------------|-----------------|
 | Knight's tour| N03, N04, N10.    | N04 |
-| Boggle game  | N03, N04, N10.    | N04 |
-| IP address   | N02, N03, N04, N05, N10, N17. | N02, N03, N04, N05, N10, N17. |
+| Boggle game  | N03, N04, N10. N11    | N04 |
+| IP address   | N02, N03, N04, N05, N10, N11, N15, N16, N17. | N02, N03, N04, N05, N10, N11, N15, N16, N17. |
