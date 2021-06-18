@@ -1,15 +1,6 @@
 # **PHÂN TÍCH THIẾT KẾ THUẬT TOÁN - CS112.L21**
 # **LUYỆN TẬP PHÂN TÍCH THIẾT KẾ THUẬT TOÁN**
 # **NHÓM 1**
-## **Thành viên nhóm:**
-
-| STT    | MSSV          | Vai Trò      | Họ và Tên           | Email                   |
-| ------ |---------------|--------------|---------------------|-------------------------|
-| 1      | 19522526      | Nhóm trưởng  | Phạm Quang Vinh     |19522526@gm.uit.edu.vn   |
-| 2      | 19522389      | Thành viên   | Nguyễn Minh Trí     |19522389@gm.uit.edu.vn   |
-| 3      | 19521759      | Thành viên   | Trương Xuân Linh    |19521759@gm.uit.edu.vn   |
-| 4      | 19522227      | Thành viên   | Huỳnh Đỗ Tấn Thành  |19522227@gm.uit.edu.vn   |
-
 
 ## **Tổng hợp thống kê buổi học:**
 ### **1. Kahoot:**
