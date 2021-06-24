@@ -44,6 +44,6 @@ Tất cả các nhóm đều tham gia.
 
 | Tên bài tập  | Các nhóm tham gia | Các nhóm passed (100 đ) |
 |--------------|-------------------|-----------------|
-| Knight's tour| N03, N04, N07, N10, N13.   | N04, N07, N13 |
+| Knight's tour| N03, N04, N07, N10, N13. N14  | N04, N07, N13 |
 | Boggle game  | N03, N04, N07, N10, N11, N13, N14, N16  | N04, N07, N13, N14 |
 | IP address   | N02, N03, N04, N05, N10, N11, N14, N15, N16, N17. | N02, N03, N04, N05, N10, N11, N14, N15, N16, N17. |
