@@ -1,8 +1,12 @@
 # **IP ADDRESS**
 ## **I. Đề bài:**
+
 Bạn Zinh đi cấu hình mạng cho tiệm net. Bạn ghi tài liệu lại cho chủ tiệm nhưng do dùng phần mềm gõ văn bản quá tốt mà các dấu chấm trong chuỗi ghi địa chỉ IP của các máy bị biến mất hết. Hãy giúp chủ quán đoán tất cả các địa chỉ IP có thể có từ một địa chỉ IP thiếu dấu chấm
+
 **INPUT:** Chuỗi số nguyên S
+
 **OUTPUT:** Ứng với mõi địa chỉ IP có thể được ghi bởi chuỗi S, xuất địa chỉ IP đó ra trên một dòng.
+
 **Ví dụ:**
 
 | INPUT | OUTPUT |
@@ -22,7 +26,7 @@ Cho 1 chuỗi gồm từ 4 đến 12 kí tự các số nguyên, them các dấu
 
     + Gọi số ký tự mỗi byte là k thì 0 < k < 4
  
- 		+ Gọi giá trị số nguyên của byte đó là h thì 0 ≤ h ≤ 255, nếu k = 1 thì h phải khác 0.
+ 	+ Gọi giá trị số nguyên của byte đó là h thì 0 ≤ h ≤ 255, nếu k = 1 thì h phải khác 0.
  	
 ### **3. Pattern recognition:**
 
