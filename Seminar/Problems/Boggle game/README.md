@@ -43,9 +43,11 @@ Tuy nhiên, vì chậm chạm hơn, nên Trí toàn thua. Là một sinh viên C
 **Ta có:**
 
 ●	Dictionary là mảng các từ
+
 ●	Board là ma trận hai chiều các ký tự
 
-**Cần tìm:** Các từ có trong Dictionary xuất hiện trong mảng hai chiều Board bằng cách nối các ký tự lân cận trong này
+**Cần tìm:** 
+Các từ có trong Dictionary xuất hiện trong mảng hai chiều Board bằng cách nối các ký tự lân cận trong này
 
 ## **2.	Decomposition:**
 -	Tìm đường nối các đỉnh liền kề nhau ( ký tự ) trong mảng hai chiều Board tạo thành các từ khác nhau
