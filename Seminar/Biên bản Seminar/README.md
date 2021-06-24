@@ -15,7 +15,7 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 ## **2. Buổi Seminar:**
 
-### **Giới thiệu: Vinh**
+### **a. Giới thiệu: Vinh**
 
 - Quy định cú pháp cho các nhóm phát biểu.
 
@@ -25,13 +25,13 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 - Giới thiếu bố cục Seminar
 
-### **Chơi kahoot ôn tập: Trí**
+### **b. Chơi kahoot ôn tập: Trí**
 
 - Phổ biến cú pháp đặt tên
 
 - Giải thích các câu hỏi
 
-### **3 Bài luyện tập: Vinh**
+### **c. 3 Bài luyện tập: Vinh**
 
 - Giới thiệu đề bài từng bài 
 
