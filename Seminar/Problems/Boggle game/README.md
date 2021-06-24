@@ -1,5 +1,5 @@
 # **BOGGLE GAME**
-## **1. Đề bài**
+## *II. Đề bài**
 Thành và Trí là hai người bạn sống chung Ký túc xá với nhau. Vào một ngày mưa gió không có gì làm, hai bạn quyết định cùng nhau chơi trò chơi tìm chữ. Luật chơi như sau:
 -	Trí sẽ tạo ra một bảng  M*N chứa các chữ cái viết hoa từ A-Z
 -	Thành sẽ tạo ra một bộ từ điển chứa W các từ viết hoa
@@ -36,33 +36,36 @@ Tuy nhiên, vì chậm chạm hơn, nên Trí toàn thua. Là một sinh viên C
 
  ![image](https://user-images.githubusercontent.com/55485505/123190961-b0d28100-d4ca-11eb-9b6a-1aca988c9eb8.png)
 
-# **2. Computational Thinking**
+# **II. Computational Thinking**
 
-## **a.	Abstraction:**
+## **1.	Abstraction:**
 
 **Ta có:**
 ●	Dictionary là mảng các từ
 ●	Board là ma trận hai chiều các ký tự
 **Cần tìm:** Các từ có trong Dictionary xuất hiện trong mảng hai chiều Board bằng cách nối các ký tự lân cận trong này
 
-## **b.	Decomposition:**
+## **2.	Decomposition:**
 -	Tìm đường nối các đỉnh liền kề nhau ( ký tự ) trong mảng hai chiều Board tạo thành các từ khác nhau
 -	Kiểm tra các từ vừa tạo thành liệu có xuất hiện trong mảng một chiều dictionary hay không
 
-## **c.	Pattern recognition:**
+## **33.	Pattern recognition:**
 
-Bài toán tương tự như các bài toán tìm đường đi trong  đồ thị. Cụ thể:
+Bài toán tương tự như các bài toán **tìm đường đi trong đồ thị**. Cụ thể:
 
 ●	Ta có các đỉnh là các ký tự trong bảng Board
+
 ●	Ta có các cạnh là các từ được ghép từ các đỉnh gần kề nhau trong bảng Board
+
 ●	Mục tiêu: Tìm đường đi thỏa mãn điều kiện cho trước
 
-Hơn nữa, đồ thị sẽ được duyệt theo thuật toán BFS( Breadth first search ), duyệt qua nút gốc và khám phá tất cả các nút lân cận nó và có thể kết hợp thêm thuật toán Branch and Bound để giảm thiểu độ phức tạp, Cụ thể:
+Hơn nữa, đồ thị sẽ được duyệt theo thuật toán **BFS (Breadth first search)**, duyệt qua nút gốc và khám phá tất cả các nút lân cận nó và có thể kết hợp thêm thuật toán **Branch and Bound** để giảm thiểu độ phức tạp, Cụ thể:
 
-●	Bài toán yêu cầu xét các nút ( ký tự ) lân cận 
+●	Bài toán yêu cầu xét các nút ( ký tự ) lân cận
+
 ●	Khi duyệt các đỉnh, xem xét đường đi ( từ vừa tạo ) liệu có thể xuất hiện trong mảng dictionary không, nếu có thì tiếp tục duyệt, nếu không thì dừng => giảm độ phức tạp
 
-## **d. Algorithm:**
+## **4. Algorithm:**
 
 ```[Python3]
 Given W, dictionary, M, N and boggle
