@@ -41,8 +41,10 @@ Tuy nhiên, vì chậm chạm hơn, nên Trí toàn thua. Là một sinh viên C
 ## **1.	Abstraction:**
 
 **Ta có:**
+
 ●	Dictionary là mảng các từ
 ●	Board là ma trận hai chiều các ký tự
+
 **Cần tìm:** Các từ có trong Dictionary xuất hiện trong mảng hai chiều Board bằng cách nối các ký tự lân cận trong này
 
 ## **2.	Decomposition:**
