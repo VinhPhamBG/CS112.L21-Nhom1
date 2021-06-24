@@ -87,7 +87,7 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 # **V. Tổng kết điểm số các nhóm:**
 
-Cách tính điểm: các nhóm có tham gia buổi học được 4 điểm + [điểm phát biểu](./Đóng góp + phát biểu của các nhóm/) + điểm làm bài tập hackerrank
+Cách tính điểm: các nhóm có tham gia buổi học được 4 điểm + điểm phát biểu + điểm làm bài tập hackerrank
 
 
 
