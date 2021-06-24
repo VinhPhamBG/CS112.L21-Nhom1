@@ -1,8 +1,5 @@
-# **PHÂN TÍCH THIẾT KẾ THUẬT TOÁN - CS112.L21**
-# **LUYỆN TẬP PHÂN TÍCH THIẾT KẾ THUẬT TOÁN**
-# **NHÓM 1**
 
-## **Tổng hợp thống kê buổi học:**
+# **Tổng hợp thống kê đóng góp phát biểu của nhómnhóm:**
 ### **1. Kahoot:**
 
 Tất cả các nhóm đều tham gia.
