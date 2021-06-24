@@ -100,6 +100,8 @@ Cách tính điểm:
 
 - Nhóm có điểm chi tiết dưới 5 sẻ được 0,5
 
+- Nhóm không tham gia 0 điểm.
+
 | Tên nhóm | Điểm |
 |----------|------|
 |Nhóm 2    |  1   |    
