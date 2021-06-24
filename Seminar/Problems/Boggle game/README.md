@@ -1,5 +1,5 @@
 # **BOGGLE GAME**
-## *II. Đề bài**
+## **I. Đề bài**
 Thành và Trí là hai người bạn sống chung Ký túc xá với nhau. Vào một ngày mưa gió không có gì làm, hai bạn quyết định cùng nhau chơi trò chơi tìm chữ. Luật chơi như sau:
 -	Trí sẽ tạo ra một bảng  M*N chứa các chữ cái viết hoa từ A-Z
 -	Thành sẽ tạo ra một bộ từ điển chứa W các từ viết hoa
