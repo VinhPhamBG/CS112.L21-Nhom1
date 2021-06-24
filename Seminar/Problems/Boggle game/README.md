@@ -1,10 +1,10 @@
 # **BOGGLE GAME**
 ## **I. Đề bài**
 Thành và Trí là hai người bạn sống chung Ký túc xá với nhau. Vào một ngày mưa gió không có gì làm, hai bạn quyết định cùng nhau chơi trò chơi tìm chữ. Luật chơi như sau:
--	Trí sẽ tạo ra một bảng  M*N chứa các chữ cái viết hoa từ A-Z
--	Thành sẽ tạo ra một bộ từ điển chứa W các từ viết hoa
--	Cuối cùng, hai người sẽ cùng tìm các từ trong từ điển có xuất hiện trong bảng bẳng cách nối các ký tự trong bảng lại với nhau
--	Điều kiện : Hai chữ cái liên tiếp được nối phải liền kề nhau (có thể theo chiều dọc, ngang hoặc chéo)
+Trí sẽ tạo ra một bảng  MxN chứa các chữ cái viết hoa từ A-Z
+Thành sẽ tạo ra một bộ từ điển chứa W các từ viết hoa
+Cuối cùng, hai người sẽ cùng tìm các từ trong từ điển có xuất hiện trong bảng bẳng cách nối các ký tự trong bảng lại với nhau
+Điều kiện : Hai chữ cái liên tiếp được nối phải liền kề nhau (có thể theo chiều dọc, ngang hoặc chéo)
 Tuy nhiên, vì chậm chạm hơn, nên Trí toàn thua. Là một sinh viên CNTT, Trí quyết định viết một đoạn chương trình để hỗ trợ mình. Hãy giúp Trí viết một chương trình bằng Python để giải quyết bài toán trên
 
 * **Input:**
