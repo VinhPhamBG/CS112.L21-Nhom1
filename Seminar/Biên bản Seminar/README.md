@@ -85,7 +85,7 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 |Trương Xuân Linh| 3.5|
 |Huỳnh Đỗ Tấn Thành| 3.5|
 
-# **V. Kết luận:**
+# **V. Tổng kết:**
 
 Mong rằng qua phần luyện tập trong buổi Seminar mà nhóm 1 chủ trì có thể phần nào giúp các bạn có thể ôn tập lại các kiến thức về thuật toán, về computational thinking.
 Nhóm rất vui khi nhận được nhưng đóng góp chỉ đãn quý báu từ thầy cùng sự tham gia xây dựng của các nhóm.
