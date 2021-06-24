@@ -8,7 +8,7 @@
 
 * **Thành viên:**  Nguyễn Minh Trí    - Thuyết trình chửa bài tập + Dẫn kahoot.
 
-# **II. Nội dung buỗi Seminar:
+# **II. Nội dung buỗi Seminar:**
 ## **1. Trước buổi thuyết trình:**
 
 Các thành viên phân công và thục hiện công việc như trên file excel.
