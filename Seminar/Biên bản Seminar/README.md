@@ -13,7 +13,7 @@
 
 Các thành viên phân công và thục hiện công việc như trên file excel.
 
-## **2. Buổi Seminar:
+## **2. Buổi Seminar:**
 
 ### **Giới thiệu: Vinh**
 
