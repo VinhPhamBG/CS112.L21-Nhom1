@@ -85,7 +85,33 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 |Trương Xuân Linh| 3.5|
 |Huỳnh Đỗ Tấn Thành| 3.5|
 
-# **V. Tổng kết:**
+# **V. Tổng kết điểm số các nhóm:**
+
+Cách tính điểm: các nhóm có tham gia buổi học được 4 điểm + [điểm phát biểu]() + điểm làm bài tập hackerrank
+
+
+
+| Tên nhóm | Điểm có mặt | Điểm phát biểu |  Điểm Hackerrank | Tổng điểm |
+|----------|----------------|---------------|---------------|------------|
+|Nhóm 2    |       4        |3|1|8|
+|Nhóm 3    |       4       |1.5|2|7.5|
+|Nhóm 4    |       4        |3|3|10|
+|Nhóm 5    |        4       |1.5|1|6.5|
+|Nhóm 6    |         4      |0|0|4|
+|Nhóm 7    |         4      |1.5|2|7.5|
+|Nhóm 8    |       4        |0|0|4|
+|Nhóm 9    |        4       |3|0|7|
+|Nhóm 10   |        4       |3|2.5|9.5|
+|Nhóm 11   |         4     |3|1.5|8.5|
+|Nhóm 12   |         4      |3|0|7|
+|Nhóm 13   |         4      |3|2|9|
+|Nhóm 14   |         4      |0|2.5|6.5|
+|Nhóm 15   |        4       |3|2|9|
+|Nhóm 16   |       4        |3|1.5|8.5|
+|Nhóm 17   |        4       |1.5|1|6.5|
+|Nhóm 18   |         4      |0|0|4|
+
+# **VI. Tổng kết:**
 
 Mong rằng qua phần luyện tập trong buổi Seminar mà nhóm 1 chủ trì có thể phần nào giúp các bạn có thể ôn tập lại các kiến thức về thuật toán, về computational thinking.
 Nhóm rất vui khi nhận được nhưng đóng góp chỉ đãn quý báu từ thầy cùng sự tham gia xây dựng của các nhóm.
