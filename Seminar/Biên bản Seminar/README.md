@@ -47,7 +47,7 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 - **Vinh:** tổng hợp thông tin viết báo cáo.
 
-## **4. Buổi chửa bài tập: Thành, Trí, linh**
+## **4. Buổi chửa bài tập: (Thành, Trí, linh)**
 
 - Nhắt lại đề 
 
@@ -60,7 +60,7 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 - Tốt hơn nhiều so với nhóm trước
 
-- Thiết kế silde cam đen đọc đáo có phong cách riêng
+- Thiết kế silde cam đen độc đáo có phong cách riêng
 
 - Nội dung đầy đủ có hình ảnh minh họa độc đáo.
 
