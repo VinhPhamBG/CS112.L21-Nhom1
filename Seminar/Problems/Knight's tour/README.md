@@ -69,20 +69,20 @@ Set S = [start coordinate]
 Set dx = [2, 1, 2, -1, 1, -1, -2, -2]
 Set dy = [1, 2, -1, 2, -2, -2, 1, -1]
 Function Backtracking (i, m, n, S):
-     If i == m * n:
-          Set end = S[end index of array]
-          If end == end coordinate:
-			             Print found result
-			             Exit function
-     	Else:
-		        Set locate = S[end index of array]
-		        For loop in 8 iterative with j is loop variable:
-			             Set x = locate[0] + dx[j]
-			             Set y = locate[1] + dy[j]
-		             	If knight still in the flag and (x, y) not in S:
-				                 Add (x, y) into S
-				                 Recursion Backtracking with (i+1, m, n, S)
-				                 Pop end value in S
+	If i == m * n:
+		Set end = S[end index of array]
+		If end == end coordinate:
+			Print found result
+			Exit function
+	Else:
+		Set locate = S[end index of array]
+		For loop in 8 iterative with j is loop variable:
+			Set x = locate[0] + dx[j]
+			Set y = locate[1] + dy[j]
+			If knight still in the flag and (x, y) not in S:
+				Add (x, y) into S
+				Recursion Backtracking with (i+1, m, n, S)
+				Pop end value in S
 Call function Backtracking with (1, m, n, S)
 If length of S == 1:
      Print Not Found
