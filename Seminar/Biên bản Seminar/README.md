@@ -15,7 +15,7 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 ## **2. Buổi Seminar:**
 
-### **a. Giới thiệu: Vinh**
+### **a. Giới thiệu: (Vinh)**
 
 - Quy định cú pháp cho các nhóm phát biểu.
 
@@ -25,27 +25,27 @@ Các thành viên phân công và thục hiện công việc như trên file exc
 
 - Giới thiếu bố cục Seminar
 
-### **b. Chơi kahoot ôn tập: Trí**
+### **b. Chơi kahoot ôn tập: (Trí)**
 
 - Phổ biến cú pháp đặt tên
 
 - Giải thích các câu hỏi
 
-### **c. 3 Bài luyện tập: Vinh**
+### **c. 3 Bài luyện tập: (Vinh)**
 
 - Giới thiệu đề bài từng bài 
 
 - Dẫn dắt các nhóm thực hành 3 kỹ năng của computational thinking (abstraction, decomposition, pattern recognition) cho từng bài (chi tiết ở file **Problem**)
 
-- Linh: ghi nhận lại thông tin phát biểu của các nhóm.
+- **Linh:** ghi nhận lại thông tin phát biểu của các nhóm.
 
-- Thành: gữi Link Hackerrank cho các nhóm.
+- **Thành:** gữi Link Hackerrank cho các nhóm.
 
 ## **3. Sau buổi seminar:**
 
-- Thành, Trí, Linh: tổng hợp các chửa các bài tập của các nhóm.
+- **Thành, Trí, Linh:** tổng hợp các chửa các bài tập của các nhóm.
 
-- Vinh: tổng hợp thông tin viết báo cáo.
+- **Vinh:** tổng hợp thông tin viết báo cáo.
 
 ## **4. Buổi chửa bài tập: Thành, Trí, linh**
 
