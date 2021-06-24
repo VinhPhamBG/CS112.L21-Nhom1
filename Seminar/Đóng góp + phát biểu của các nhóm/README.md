@@ -2,7 +2,7 @@
 # **Tổng hợp thống kê đóng góp phát biểu của nhómnhóm:**
 ### **1. Kahoot:**
 
-Tất cả các nhóm đều tham gia.
+Tất cả các nhóm đều tham gia. 
 
 | Hạng | Tên nhóm |
 |------|----------|
@@ -15,32 +15,32 @@ Tất cả các nhóm đều tham gia.
 
 ### **2. Phát biểu đóng góp:**
 
-| Tên nhóm | Lượt phát biểu |
-|----------|----------------|
-|Nhóm 2    |       6        |
-|Nhóm 3    |        2       |
-|Nhóm 4    |       9        |
-|Nhóm 5    |        3       |
-|Nhóm 6    |         0      |
-|Nhóm 7    |         2      |
-|Nhóm 8    |       0        |
-|Nhóm 9    |        6       |
-|Nhóm 10   |        7       |
-|Nhóm 11   |         10     |
-|Nhóm 12   |         6      |
-|Nhóm 13   |         7      |
-|Nhóm 14   |         0      |
-|Nhóm 15   |        4       |
-|Nhóm 16   |       6        |
-|Nhóm 17   |        2       |
-|Nhóm 18   |         0      |
+Cách tính điểm phát biểu:
 
-### **3. Bài tập hackerrank:**
+- Từ 5 lượt trở lên được 3 điểm.
 
-* Nhóm 10 tuy không pass 2 bài Knight's tour và Boggle game nhưng nhóm có cố gắng trong việc giải bài tập
+- Dưới 5 lượt được 1,5 điểm
 
-| Tên bài tập  | Các nhóm tham gia | Các nhóm passed (100 đ) |
-|--------------|-------------------|-----------------|
-| Knight's tour| N03, N04, N07, N10, N13. N14  | N04, N07, N13 |
-| Boggle game  | N03, N04, N07, N10, N11, N13, N14, N16  | N04, N07, N13, N14 |
-| IP address   | N02, N03, N04, N05, N10, N11, N14, N15, N16, N17. | N02, N03, N04, N05, N10, N11, N14, N15, N16, N17. |
+- Không phát biểu 0 điểm
+
+| Tên nhóm | Lượt phát biểu | Điểm đạt được |
+|----------|----------------|---------------|
+|Nhóm 2    |       6        |3|
+|Nhóm 3    |        2       |1.5|
+|Nhóm 4    |       9        |3|
+|Nhóm 5    |        3       |1.5|
+|Nhóm 6    |         0      |0|
+|Nhóm 7    |         2      |1.5|
+|Nhóm 8    |       0        |0|
+|Nhóm 9    |        6       |3|
+|Nhóm 10   |        7       |3|
+|Nhóm 11   |         10     |3|
+|Nhóm 12   |         6      |3|
+|Nhóm 13   |         7      |3|
+|Nhóm 14   |         0      |0|
+|Nhóm 15   |        5       |3|
+|Nhóm 16   |       6        |3|
+|Nhóm 17   |        2       |1.5|
+|Nhóm 18   |         0      |0|
+
+
